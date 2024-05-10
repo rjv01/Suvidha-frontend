@@ -1,0 +1,51 @@
+export const Developers = [
+	{
+		id: 1,
+		name: "Aviral Mishra",
+		branch: "CSE Core",
+		github: "github-id",
+		linkedin: "linkedin-id",
+	},
+	{
+		id: 2,
+		name: "Mialn Gour",
+		branch: "CSE Core",
+		github: "github-id",
+		linkedin: "linkedin-id",
+	},
+	{
+		id: 3,
+		name: "Raj Shekhar Verma",
+		branch: "CSE Core",
+		github: "github-id",
+		linkedin: "linkedin-id",
+	},
+	{
+		id: 4,
+		name: "Ambrish Kumar Rai",
+		branch: "CSE Core",
+		github: "github-id",
+		linkedin: "linkedin-id",
+	},
+	{
+		id: 5,
+		name: "Anoushka Sharma",
+		branch: "CSE Core",
+		github: "github-id",
+		linkedin: "linkedin-id",
+	},
+	{
+		id: 6,
+		name: "Shashwat Malewar",
+		branch: "CSE Core",
+		github: "github-id",
+		linkedin: "linkedin-id",
+	},
+	{
+		id: 7,
+		name: "Devanand",
+		branch: "MIM",
+		github: "github-id",
+		linkedin: "linkedin-id",
+	},
+];
